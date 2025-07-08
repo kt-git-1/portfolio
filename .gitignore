@@ -1,0 +1,15 @@
+# frontend (Node.js/Next.js)
+frontend/node_modules/
+frontend/.next/
+frontend/.env.local
+
+# backend (Spring)
+backend/build/
+backend/.gradle/
+backend/.env
+backend/.idea/
+backend/out/
+
+# 共通
+.DS_Store
+*.log
